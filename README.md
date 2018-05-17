@@ -1,0 +1,2 @@
+# cmps223
+Builds on the foundation provided in CMPS 221 to introduce the fundamental concepts of data structures and algorithms that proceed from them within the framework of object-oriented programming technology. Topics include: recursion, fundamental data structures (including lists, stacks, queues, hash tables, trees and graphs) and basics of algorithmic analysis. Necessary components of object-oriented programming method will be introduced. Each week lectures meets for 200 minutes and lab meets for 150 minutes.  Prerequisite CMPS 221.
